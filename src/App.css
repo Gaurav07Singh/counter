@@ -1,4 +1,5 @@
-.App {
+/* .App {
+
   text-align: center;
 }
 
@@ -35,4 +36,34 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+*
+{
+  background-color: gray;
 }
+.counter{
+
+  display:flex;
+  text-align: center;
+
+}
+.counter--minus 
+{
+  border-radius:50%;
+  background-color: black;
+  size: 8px;
+  color:white;
+  padding:15px
+}
+
+.counter--plus 
+{
+  border-radius:50%;
+  background-color: black;
+  size: 8px;
+  color:white;
+  padding:15px
+}
+
